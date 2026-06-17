@@ -2,7 +2,7 @@
 
 > 2-player game, there's a chaser, there's a player getting chased.
 
-![screenshot]("Images/screenshot.png")
+![screenshot]("assets/Images/screenshot.png")
 
 ## Description
 
